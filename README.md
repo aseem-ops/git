@@ -6,4 +6,4 @@ SDJKSJKDNJKASNDNSADNLANSD
 
 
 asdsndnasj n adding some updates
-iii
+This is a merge conflict scenario : Master
